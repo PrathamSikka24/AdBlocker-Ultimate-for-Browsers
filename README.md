@@ -18,7 +18,7 @@ The extension allows you to switch back on ads for your favorite websites in cas
 
 ## Who are we?
 
-We are a copuple of friends, software engineers, working on this adblocker in our spare time.
+We are a couple of friends, software engineers, working on this adblocker in our spare time.
 
 ## Why another AdBlocker though?
 
